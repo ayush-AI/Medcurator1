@@ -1,5 +1,5 @@
-Enter your names below and commit with a massage(clone your repsitory and commit using git from commandLine)
 Rahul Srivastava
 Khush Maroo
 Ayush
 Piyush Thakur
+Aishwarya Barik
